@@ -7,6 +7,6 @@ At CJ32Group, we operate at the intersection of cutting-edge technology solution
 To stay informed about our latest developments, be sure to visit our website:
 
 - Official website: http://cj23group.cyberjutsu-lab.tech/
-- Our blog: http://cj23group.cyberjutsu-lab.tech/innovation-projects-and-blog/
+- Our blog: http://blog.cj23group.cyberjutsu-lab.tech/
 
 Join us on this exciting journey of innovation and progress as we continue to redefine the possibilities in technology through CJ32Group.
